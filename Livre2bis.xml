@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre titre="Mon livre">
+<auteurs>
+<auteur nom="Brillant" prenom="Alexandre"/>
+<auteur nom="Briand" prenom="Aristide"/>
+</auteurs>
+<sections>
+<section titre="Section 1">
+<chapitre titre="Chapitre 1">
+<paragraphe>1er paragraphe</paragraphe>
+<paragraphe>2ème paragraphe</paragraphe>
+</chapitre>
+<chapitre titre="Chapitre 2">
+<paragraphe>1er paragraphe</paragraphe>
+<paragraphe>2ème paragraphe</paragraphe>
+</chapitre>
+</section>
+<section titre="Section 2">
+<chapitre titre="Chapitre1">
+<paragraphe>&lt;element id="10"&gt;&gt;&lt;/element&gt;</paragraphe>
+<paragraphe><![CDATA[<element id="10">></element>]]></paragraphe>
+</chapitre>
+<chapitre titre="Chapitre 2">
+<paragraphe>1er paragraphe</paragraphe>
+<paragraphe>2ème paragraphe</paragraphe>
+</chapitre>
+</section>
+</sections>
+</livre>
